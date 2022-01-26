@@ -1,1 +1,1 @@
-Project link: https://prince-dhamecha.github.io/RESTAURANT_SITE/
+https://prince-dhamecha.github.io/RESTAURANT_SITE/
